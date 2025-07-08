@@ -1,7 +1,14 @@
+## Screenshot
+<img width="1680" alt="Screenshot 2025-07-09 at 12 10 14 AM" src="https://github.com/user-attachments/assets/5e82cdbe-1da7-44f3-88a0-f23cfe72bb1d" />
+
+## DEMO
+
+
+https://github.com/user-attachments/assets/3227d1aa-5507-4568-b222-7b75813fa987
 
 
 
-# Lexi Legal Assistant Frontend
+# Lexi Legal Assistant Frontend 
 
 Lexi Legal Assistant is a simple web application that simulates a legal research chat experience. The interface is designed to be clean, modern, and easy to use, with a focus on clarity and professionalism.
 
